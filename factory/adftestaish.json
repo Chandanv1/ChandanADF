@@ -1,0 +1,9 @@
+{
+	"name": "adftestaish",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "084b517c-2fb0-4c8b-9149-297e4d94685a",
+		"tenantId": "49b2fd97-709a-4734-88e2-c834fd6c2499"
+	}
+}

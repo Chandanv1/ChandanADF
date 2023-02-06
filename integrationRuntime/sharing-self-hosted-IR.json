@@ -1,0 +1,12 @@
+{
+	"name": "sharing-self-hosted-IR",
+	"properties": {
+		"type": "SelfHosted",
+		"typeProperties": {
+			"linkedInfo": {
+				"resourceId": "/subscriptions/cda7a228-4c34-4f61-a712-bbd3fa5fdd04/resourcegroups/resgrp_aish/providers/Microsoft.DataFactory/factories/adfaish/integrationruntimes/selfhostedIR",
+				"authorizationType": "Rbac"
+			}
+		}
+	}
+}
